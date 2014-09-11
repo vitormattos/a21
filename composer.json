@@ -1,0 +1,16 @@
+{
+    "name": "vitormattos/a21-parser",
+    "description": "Parser for json file of bible Almeida Séc 21",
+    "require": {
+        "robmorgan/phinx": "*",
+        "guiguiboy/php-cli-progress-bar": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitor Mattos",
+            "email": "vitor.mattos@phprio.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
